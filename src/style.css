@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#alerta {      
+  background-image: linear-gradient(315deg, #152844 0%, #0a3654 100%);
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;    
+  letter-spacing: 0.5rem;
+  font-weight: 400;  
+}
