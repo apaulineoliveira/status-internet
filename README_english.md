@@ -1,4 +1,4 @@
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" height="25" width="25"/>
 
-<h1 align="center">Objective</h1>
+<h1 align="center">Goal</h1>
     <p>The goal of this project was to create an internet connectivity checker using HTML, CSS and pure Javascript. The checker consists of immediately identifying through the JS when the user is connected to the internet and when not. In both cases, the result will be displayed on the screen. If you are connected to the internet it will appear: "Your internet is connected!" if not: "Your internet has been disconnected."<br></br> Using <code>window.navigator.onLine</code> it was possible to obtain (return) the <b>online status</b> of the browser. Therefore, I used the <code>if/else</code> conditionals to also return when the browser is <b>offline</b> (internet disconnected). Also, <code>addEventListener</code> was used to fire the event.</p>
